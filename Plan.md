@@ -1,3 +1,4 @@
+```mermaid
 sequenceDiagram
     autonumber
     participant Client
@@ -20,3 +21,4 @@ sequenceDiagram
 
     Client->>WebSocketServer: Close Connection
     WebSocketServer-->>Client: Connection Closed
+```
