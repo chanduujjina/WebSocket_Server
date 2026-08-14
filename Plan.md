@@ -38,9 +38,14 @@ treeView-beta
                 src/
                     main/
                          java/
-                               App.java
+                              com/
+                                  demo/
+                                        cc/
+                                            App.java
                          test/
-                              AppTest.java   
+                              com/
+                                  demo/
+                                       AppTest.java   
                 .gitignore
                  pom.xml
                  README.md
