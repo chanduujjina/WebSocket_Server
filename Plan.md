@@ -24,3 +24,11 @@ sequenceDiagram
     Client->>WebSocketServer: Close Connection
     WebSocketServer-->>Client: Connection Closed
 ```
+## Tech stack
+### Client : Angular App
+### WebSocket Broker -> Active MQ
+
+### Server app : Spring Boot
+
+### Databse : MySQL
+
