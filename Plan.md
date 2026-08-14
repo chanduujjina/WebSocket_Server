@@ -36,12 +36,12 @@ sequenceDiagram
 treeView-beta
             my-project/
                 src/
-                    components/
-                        Button.tsx
-                        Header.tsx
-                    App.tsx
-                    index.js
+                    main/
+                         java/
+                               App.java
+                         test/
+                              AppTest.java   
                 .gitignore
-                package.json
-                README.md
+                 pom.xml
+                 README.md
 ```
