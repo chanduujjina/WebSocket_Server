@@ -1,4 +1,4 @@
-```sequenceDiagram
+sequenceDiagram
     autonumber
     participant Client
     participant WebSocketServer
@@ -20,4 +20,4 @@
 
     Client->>WebSocketServer: Close Connection
     WebSocketServer-->>Client: Connection Closed
-```
+
