@@ -20,4 +20,3 @@ sequenceDiagram
 
     Client->>WebSocketServer: Close Connection
     WebSocketServer-->>Client: Connection Closed
-
